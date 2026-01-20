@@ -3,7 +3,7 @@
 
 [![Linkedin](    https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-caldeira-3304013a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
-
+[![Gustavo GitHub stats](https://github-readme-stats-sigma-two-68.vercel.app/api?username=guscaldeira&show_icons=true&theme=dracula&name=Gustavo)](https://github.com/guscaldeira)
 
 ## Tecnologias que eu uso no meu dia
 
